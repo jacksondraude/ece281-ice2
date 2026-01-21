@@ -33,3 +33,14 @@
 # don't ignore .github
 !.github/
 !.github/**/*
+# Vivado generated files
+*.runs/
+*.cache/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.jou
+*.log
+*.str
+
+
